@@ -1,2 +1,2 @@
 # New-example-class
-Another test local to remote test attempt
+Another local to remote test attempt
